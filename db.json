@@ -1,0 +1,40 @@
+{
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "services": [
+    {
+      "title": "Study Tour",
+      "subTitle": "Our themes are updated regularly to keep them bug free!"
+    },
+    {
+      "title": "Up to Date",
+      "subTitle": "All dependencies are kept current to keep things fresh."
+    },
+    {
+      "title": "Ready to Publish",
+      "subTitle": "You can use this design as is, or you can make changes!"
+    },
+    {
+      "title": "Made with Love",
+      "subTitle": "Is it really open source if it's not made with love?"
+    }
+  ],
+  "portfolio": [
+    {
+      "category": "CATEGORY A",
+      "project": "PROJECT A",
+      "img": "img/portfolio/thumbnails/4.jpg"
+    },
+    {
+      "category": "CATEGORY B",
+      "project": "PROJECT B",
+      "img": "img/portfolio/thumbnails/5.jpg"
+    },
+    {
+      "category": "CATEGORY C",
+      "project": "PROJECT C",
+      "img": "img/portfolio/thumbnails/6.jpg"
+    }
+  ]
+}
